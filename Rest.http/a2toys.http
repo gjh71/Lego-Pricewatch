@@ -1,0 +1,5 @@
+@legonr = 42100
+
+###
+get https://www.a2toys.nl/epages/63446990.sf/nl_NL/?ObjectID=12982655&ViewAction=FacetedSearchProducts&SearchString={{legonr}}
+

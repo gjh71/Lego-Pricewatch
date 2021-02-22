@@ -1,0 +1,5 @@
+@legonr = 42054
+
+###
+get https://specialbricks.nl/?s={{legonr}}&post_type=product
+

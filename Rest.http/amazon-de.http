@@ -1,0 +1,7 @@
+#@legonr = 42054
+@legonr = 42100
+
+###
+get https://www.amazon.de/s?k={{legonr}}&i=toys
+
+

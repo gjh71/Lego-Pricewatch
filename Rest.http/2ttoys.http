@@ -1,0 +1,6 @@
+@legonr = 42100
+
+###
+get https://www.2ttoys.nl/contents/nl/search.php?searchphrase={{legonr}}&start_page=1&searchFormSortBy=R-A&searchFormRootUse=A
+
+

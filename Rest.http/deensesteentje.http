@@ -1,0 +1,8 @@
+@legonr = 42100
+
+###
+post https://www.hetdeensesteentje.nl/nl/search/
+
+{
+    string: {{legonr}}
+}
